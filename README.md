@@ -1,1 +1,1 @@
-# go-gin-vue-cademic
+# gin and vue
